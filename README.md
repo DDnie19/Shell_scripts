@@ -1,2 +1,2 @@
-# shell_scrupts
+# shell_scripts
 little_scripts
